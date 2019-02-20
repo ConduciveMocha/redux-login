@@ -1,0 +1,11 @@
+
+export const USERNAME_VALID = "USERNAME_VALID";
+export const PASSWORD_VALID = "PASSWORD_VALID";
+export const STORE_USER_TOGGLED = "STORE_USER_TOGGLED";
+export default {
+    USERNAME_VALID,
+    PASSWORD_VALID,
+    STORE_USER_TOGGLED,
+    
+
+};

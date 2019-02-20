@@ -1,0 +1,8 @@
+.field-error-container{
+    height: 1.5em;
+    background-color: red;
+}
+.field-error{
+    font-size: .75em;
+
+}
